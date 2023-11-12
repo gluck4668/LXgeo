@@ -1,0 +1,10 @@
+Package: LXgeo
+Type: Package
+Title: LXgeo
+Version: 2023.04
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: LXgeo can be used to get the GEO gene expression data.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
